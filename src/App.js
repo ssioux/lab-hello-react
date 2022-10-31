@@ -11,8 +11,8 @@ function App() {
         <Main />
       </section>
 
-      <section style={{display: "flexRow"}}>
-
+      <section style={{display: "flex"}}>
+      
 
 
       </section>
