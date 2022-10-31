@@ -11,7 +11,7 @@ import Declarative from "./components/Declarative"
 function App() {
   return (
     <div className="App">
-      <section style={{ backgroundColor: "black", height: "50%", width: "50%", margin: "0px 0px 0px 350px"}}>
+      <section style={{ backgroundColor: "black", height: "50%", width: "50%", height: "50%", margin: "0px 0px 0px 350px"}}>
         <Nav />
 
         <Main />
