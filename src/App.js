@@ -11,13 +11,13 @@ import Declarative from "./components/Declarative"
 function App() {
   return (
     <div className="App">
-      <section style={{ backgroundColor: "black" }}>
+      <section style={{ backgroundColor: "black", height: "50%", width: "50%", margin: "0px 0px 0px 350px"}}>
         <Nav />
 
         <Main />
       </section>
 
-      <section style={{display: "flex"}}>
+      <section style={{display: "flex", height: "50%", width: "50%", margin: "0px 0px 0px 350px"}}>
       
       <Components />
       <SingleWay />
